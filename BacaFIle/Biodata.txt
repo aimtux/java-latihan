@@ -1,0 +1,8 @@
+Nim	: 201101001
+Nama	: Iwan Setiawan
+Alamat	: Jl Kesambi 202
+Prodi	: Teknik Informatika
+Nim	: 201101002
+Nama	: Budi Hermawan
+Alamat	: Jl Drajat 200
+Prodi	: Teknik Informatika

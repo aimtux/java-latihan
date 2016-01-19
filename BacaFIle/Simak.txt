@@ -1,0 +1,15 @@
+Nim	: 201101001
+Nama	: Dewi Wiguna
+Prodi	: Teknik Informatika
+Nim	: 201101002
+Nama	: Dian Agustin
+Prodi	: Sistem Informasi
+Nim	: 20110201001
+Nama	: Fahmi Baraja
+Prodi	: Manajemen Informatika
+Nim	: 2013112001
+Nama	: Ahmad Hakim
+Prodi	: TI-SCN
+Nim : 2014112001
+Nama	: Febby Pratama Putri
+Prodi	: TI-SCN
